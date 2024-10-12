@@ -1,3 +1,4 @@
+![QUAD](/assets/quad-logo.png)
 # QUAD (QUad Action Dice) — Механика Игры
 
 ### Основная Концепция
